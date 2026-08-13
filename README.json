@@ -1,0 +1,219 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "↑ Privilege Escalation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MS Signed mimikatz in just 3 steps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-11T19:34:42Z",
+            "owner": "secretsquirrel",
+            "repo": "SigThief",
+            "stars": 2411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "App Locker ByPass List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-09-11T20:43:25Z",
+            "owner": "api0cradle",
+            "repo": "UltimateAppLockerByPassList",
+            "stars": 2078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Window 10 Device Guard Bypass",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-08-03T21:22:11Z",
+            "owner": "tyranid",
+            "repo": "DeviceGuardBypasses",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Window Signed Binary",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-09-19T18:09:05Z",
+            "owner": "vysecurity",
+            "repo": "Windows-SignedBinary",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "↑ Defense Evasion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "↑ Command and Control"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Finding Frontable Domain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-22T11:39:46Z",
+            "owner": "rvrsh3ll",
+            "repo": "FindFrontableDomains",
+            "stars": 649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudFrunt GitHub Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-24T21:05:40Z",
+            "owner": "MindPointGroup",
+            "repo": "cloudfrunt",
+            "stars": 361
+          }
+        }
+      ],
+      "title": "Domain Fronting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "External C2 for Cobalt Strike",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-11-23T16:47:26Z",
+            "owner": "ryhanson",
+            "repo": "ExternalC2",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "External C2 framework - GitHub Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-22T08:13:03Z",
+            "owner": "Und3rf10w",
+            "repo": "external_c2_framework",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hiding in the Cloud: Cobalt Strike Beacon C2 using Amazon APIs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-22T08:13:03Z",
+            "owner": "Und3rf10w",
+            "repo": "external_c2_framework",
+            "stars": 239
+          }
+        }
+      ],
+      "title": "Web Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-CobaltStrike",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-20T12:55:32Z",
+            "owner": "zer0yu",
+            "repo": "Awesome-CobaltStrike",
+            "stars": 4433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Red Tips of Vysec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-04-26T17:33:33Z",
+            "owner": "vysecurity",
+            "repo": "RedTips",
+            "stars": 1120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planning a Red Team exercise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-08-23T20:58:18Z",
+            "owner": "magoo",
+            "repo": "redteam-plan",
+            "stars": 614
+          }
+        }
+      ],
+      "title": "↑ Misc"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "↑ RedTeam Gadgets"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:48:03.736Z",
+    "original_repository": "yeyintminthuhtut/Awesome-Red-Teaming",
+    "original_repository_sha": "1075eed002871aa5bf30b8b6f66a03956840f351",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Red-Teaming",
+    "enhanced_repository_description": null,
+    "title": "Awesome This List is no longer updated. with stars"
+  }
+}
