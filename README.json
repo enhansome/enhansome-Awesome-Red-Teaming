@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "↑ Privilege Escalation"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102151120,
             "language": "Python",
             "last_commit": "2021-08-11T19:34:42Z",
             "owner": "secretsquirrel",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96935123,
             "language": "PowerShell",
             "last_commit": "2023-09-11T20:43:25Z",
             "owner": "api0cradle",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98046058,
             "language": "C#",
             "last_commit": "2017-08-03T21:22:11Z",
             "owner": "tyranid",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104136626,
             "language": "Python",
             "last_commit": "2017-09-19T18:09:05Z",
             "owner": "vysecurity",
@@ -68,94 +67,102 @@
       "title": "↑ Defense Evasion"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Finding Frontable Domain",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89181623,
+                "language": "Python",
+                "last_commit": "2023-03-22T11:39:46Z",
+                "owner": "rvrsh3ll",
+                "repo": "FindFrontableDomains",
+                "stars": 649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudFrunt GitHub Repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116430481,
+                "language": "Python",
+                "last_commit": "2020-06-24T21:05:40Z",
+                "owner": "MindPointGroup",
+                "repo": "cloudfrunt",
+                "stars": 361
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Domain Fronting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "External C2 for Cobalt Strike",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110648623,
+                "language": "C#",
+                "last_commit": "2017-11-23T16:47:26Z",
+                "owner": "ryhanson",
+                "repo": "ExternalC2",
+                "stars": 289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "External C2 framework - GitHub Repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110931360,
+                "language": "Python",
+                "last_commit": "2023-03-22T08:13:03Z",
+                "owner": "Und3rf10w",
+                "repo": "external_c2_framework",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hiding in the Cloud: Cobalt Strike Beacon C2 using Amazon APIs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110931360,
+                "language": "Python",
+                "last_commit": "2023-03-22T08:13:03Z",
+                "owner": "Und3rf10w",
+                "repo": "external_c2_framework",
+                "stars": 239
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Services"
+        }
+      ],
       "title": "↑ Command and Control"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Finding Frontable Domain",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-22T11:39:46Z",
-            "owner": "rvrsh3ll",
-            "repo": "FindFrontableDomains",
-            "stars": 649
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CloudFrunt GitHub Repo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-06-24T21:05:40Z",
-            "owner": "MindPointGroup",
-            "repo": "cloudfrunt",
-            "stars": 361
-          }
-        }
-      ],
-      "title": "Domain Fronting"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "External C2 for Cobalt Strike",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2017-11-23T16:47:26Z",
-            "owner": "ryhanson",
-            "repo": "ExternalC2",
-            "stars": 289
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "External C2 framework - GitHub Repo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-22T08:13:03Z",
-            "owner": "Und3rf10w",
-            "repo": "external_c2_framework",
-            "stars": 239
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hiding in the Cloud: Cobalt Strike Beacon C2 using Amazon APIs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-22T08:13:03Z",
-            "owner": "Und3rf10w",
-            "repo": "external_c2_framework",
-            "stars": 239
-          }
-        }
-      ],
-      "title": "Web Services"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -164,6 +171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287713897,
             "language": null,
             "last_commit": "2023-09-20T12:55:32Z",
             "owner": "zer0yu",
@@ -178,6 +186,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 95210549,
             "language": null,
             "last_commit": "2020-04-26T17:33:33Z",
             "owner": "vysecurity",
@@ -192,6 +201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101102122,
             "language": null,
             "last_commit": "2017-08-23T20:58:18Z",
             "owner": "magoo",
@@ -201,16 +211,12 @@
         }
       ],
       "title": "↑ Misc"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "↑ RedTeam Gadgets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:17:50.008Z",
+    "last_updated": "2026-08-19T12:10:51.954Z",
     "original_repository": "yeyintminthuhtut/Awesome-Red-Teaming",
+    "original_repository_id": 104987608,
     "original_repository_sha": "1075eed002871aa5bf30b8b6f66a03956840f351",
     "enhanced_repository": "enhansome/enhansome-Awesome-Red-Teaming",
     "enhanced_repository_description": null,
