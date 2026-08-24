@@ -15,7 +15,7 @@
             "last_commit": "2021-08-11T19:34:42Z",
             "owner": "secretsquirrel",
             "repo": "SigThief",
-            "stars": 2415
+            "stars": 2416
           }
         },
         {
@@ -110,6 +110,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Apache2Mod Rewrite Setup",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88302319,
+                "language": "Python",
+                "last_commit": "2017-04-21T20:46:21Z",
+                "owner": "n0pe-sled",
+                "repo": "Apache2-Mod-Rewrite-Setup",
+                "stars": 87
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Connection Proxy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "External C2 for Cobalt Strike",
               "description": null,
               "children": [],
@@ -176,7 +198,7 @@
             "last_commit": "2023-09-20T12:55:32Z",
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4435
+            "stars": 4436
           }
         },
         {
@@ -211,10 +233,66 @@
         }
       ],
       "title": "↑ Misc"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dorothy for Okta SSO",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 317312410,
+                "language": "Python",
+                "last_commit": "2026-08-08T22:13:20Z",
+                "owner": "elastic",
+                "repo": "dorothy",
+                "stars": 196
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
+        }
+      ],
+      "title": "↑ RedTeam Gadgets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vulnerable-AD - Script to make your home AD Lab vulnerable",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273454836,
+                "language": "PowerShell",
+                "last_commit": "2024-04-12T18:06:21Z",
+                "owner": "safebuffer",
+                "repo": "vulnerable-AD",
+                "stars": 2325
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Home Lab"
+        }
+      ],
+      "title": "↑ Training ( Free )"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:11:25.522Z",
+    "last_updated": "2026-08-24T13:53:00.424Z",
     "original_repository": "yeyintminthuhtut/Awesome-Red-Teaming",
     "original_repository_id": 104987608,
     "original_repository_sha": "1075eed002871aa5bf30b8b6f66a03956840f351",

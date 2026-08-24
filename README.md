@@ -116,7 +116,7 @@ You can help by sending Pull Requests to add more information.
 
 ## [↑](#table-of-contents) Defense Evasion
 
-* [MS Signed mimikatz in just 3 steps](https://github.com/secretsquirrel/SigThief) ⭐ 2,415 | 🐛 0 | 🌐 Python | 📅 2021-08-11
+* [MS Signed mimikatz in just 3 steps](https://github.com/secretsquirrel/SigThief) ⭐ 2,416 | 🐛 0 | 🌐 Python | 📅 2021-08-11
 * [App Locker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,080 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
 * [Window 10 Device Guard Bypass](https://github.com/tyranid/DeviceGuardBypasses) ⭐ 139 | 🐛 0 | 🌐 C# | 📅 2017-08-03
 * [Window Signed Binary](https://github.com/vysec/Windows-SignedBinary) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2017-09-19
@@ -248,8 +248,8 @@ You can help by sending Pull Requests to add more information.
 
 ### Connection Proxy
 
-* [Redirecting Cobalt Strike DNS Beacons](http://www.rvrsh3ll.net/blog/offensive/redirecting-cobalt-strike-dns-beacons/)
 * [Apache2Mod Rewrite Setup](https://github.com/n0pe-sled/Apache2-Mod-Rewrite-Setup) ⭐ 87 | 🐛 1 | 🌐 Python | 📅 2017-04-21
+* [Redirecting Cobalt Strike DNS Beacons](http://www.rvrsh3ll.net/blog/offensive/redirecting-cobalt-strike-dns-beacons/)
 * [Cobalt Strike HTTP C2 Redirectors with Apache mod\_rewrite](https://bluescreenofjeff.com/2016-06-28-cobalt-strike-http-c2-redirectors-with-apache-mod_rewrite/)
 * [High-reputation Redirectors and Domain Fronting](https://blog.cobaltstrike.com/2017/02/06/high-reputation-redirectors-and-domain-fronting/)
 * [Cloud-based Redirectors for Distributed Hacking](https://blog.cobaltstrike.com/2014/01/14/cloud-based-redirectors-for-distributed-hacking/)
@@ -338,7 +338,7 @@ You can help by sending Pull Requests to add more information.
 
 ## [↑](#table-of-contents) Misc
 
-* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) ⭐ 4,435 | 🐛 0 | 📅 2023-09-20
+* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) ⭐ 4,436 | 🐛 0 | 📅 2023-09-20
 * [Red Tips of Vysec](https://github.com/vysec/RedTips) ⚠️ Archived
 * [Planning a Red Team exercise](https://github.com/magoo/redteam-plan) ⭐ 614 | 🐛 0 | 📅 2017-08-23
 * [Cobalt Strike Tips for 2016 ccde red teams](https://blog.cobaltstrike.com/2016/02/23/cobalt-strike-tips-for-2016-ccdc-red-teams/)
@@ -388,6 +388,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Misc
 
+* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 196 | 🐛 11 | 🌐 Python | 📅 2026-08-08
 * [Key Grabber](https://hackerwarehouse.com/product/keygrabber/)
 * [Magspoof](https://store.ryscc.com/products/magspoof%20)
 * [Poison tap](https://samy.pl/poisontap/)
@@ -396,7 +397,6 @@ You can help by sending Pull Requests to add more information.
 * [Screen Crab](https://shop.hak5.org/collections/sale/products/screen-crab)
 * [O.MG Cable](https://shop.hak5.org/collections/featured-makers/products/o-mg-cable)
 * [Keysy](https://shop.hak5.org/collections/featured-makers/products/keysy)
-* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 196 | 🐛 11 | 🌐 Python | 📅 2026-08-08
 
 ## [↑](#table-of-contents) Ebooks
 
@@ -415,9 +415,9 @@ You can help by sending Pull Requests to add more information.
 
 #### Home Lab
 
+* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,325 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
 * [Setting up DetectionLab](https://www.c2.lol/articles/setting-up-chris-longs-detectionlab)
-* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,325 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
 
 ## [↑](#table-of-contents) Certification
 
@@ -431,4 +431,4 @@ You can help by sending Pull Requests to add more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
