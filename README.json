@@ -248,7 +248,7 @@
                 "archived": false,
                 "id": 317312410,
                 "language": "Python",
-                "last_commit": "2026-08-08T22:13:20Z",
+                "last_commit": "2026-08-26T14:13:41Z",
                 "owner": "elastic",
                 "repo": "dorothy",
                 "stars": 196
@@ -292,7 +292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:19:37.624Z",
+    "last_updated": "2026-08-26T21:18:13.939Z",
     "original_repository": "yeyintminthuhtut/Awesome-Red-Teaming",
     "original_repository_id": 104987608,
     "original_repository_sha": "1075eed002871aa5bf30b8b6f66a03956840f351",
