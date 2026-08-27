@@ -198,7 +198,7 @@
             "last_commit": "2023-09-20T12:55:32Z",
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4436
+            "stars": 4437
           }
         },
         {
@@ -292,9 +292,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:18:13.939Z",
-    "original_repository": "yeyintminthuhtut/Awesome-Red-Teaming",
-    "original_repository_id": 104987608,
+    "last_updated": "2026-08-27T11:24:04.951Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 104987608,
+      "language": null,
+      "last_commit": "2023-12-28T18:10:52Z",
+      "owner": "yeyintminthuhtut",
+      "repo": "Awesome-Red-Teaming",
+      "stars": 8071
+    },
     "original_repository_sha": "1075eed002871aa5bf30b8b6f66a03956840f351",
     "enhanced_repository": "enhansome/enhansome-Awesome-Red-Teaming",
     "enhanced_repository_description": null,
