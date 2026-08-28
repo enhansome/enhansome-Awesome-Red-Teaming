@@ -15,7 +15,7 @@
             "last_commit": "2021-08-11T19:34:42Z",
             "owner": "secretsquirrel",
             "repo": "SigThief",
-            "stars": 2416
+            "stars": 2417
           }
         },
         {
@@ -292,7 +292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:04.951Z",
+    "last_updated": "2026-08-28T02:22:12.213Z",
     "original_repository_info": {
       "archived": false,
       "id": 104987608,
@@ -300,7 +300,7 @@
       "last_commit": "2023-12-28T18:10:52Z",
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8071
+      "stars": 8073
     },
     "original_repository_sha": "1075eed002871aa5bf30b8b6f66a03956840f351",
     "enhanced_repository": "enhansome/enhansome-Awesome-Red-Teaming",
