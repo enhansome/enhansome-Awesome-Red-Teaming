@@ -16,7 +16,8 @@
             "owner": "secretsquirrel",
             "repo": "SigThief",
             "stars": 2417
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.718Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "api0cradle",
             "repo": "UltimateAppLockerByPassList",
             "stars": 2081
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.718Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "tyranid",
             "repo": "DeviceGuardBypasses",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.718Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "vysecurity",
             "repo": "Windows-SignedBinary",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.718Z"
         }
       ],
       "title": "↑ Defense Evasion"
@@ -84,7 +88,8 @@
                 "owner": "rvrsh3ll",
                 "repo": "FindFrontableDomains",
                 "stars": 649
-              }
+              },
+              "first_seen": "2026-08-29T01:55:38.718Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "MindPointGroup",
                 "repo": "cloudfrunt",
                 "stars": 361
-              }
+              },
+              "first_seen": "2026-08-29T01:55:38.718Z"
             }
           ],
           "description": null,
@@ -121,7 +127,8 @@
                 "owner": "n0pe-sled",
                 "repo": "Apache2-Mod-Rewrite-Setup",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T01:55:38.718Z"
             }
           ],
           "description": null,
@@ -143,7 +150,8 @@
                 "owner": "ryhanson",
                 "repo": "ExternalC2",
                 "stars": 289
-              }
+              },
+              "first_seen": "2026-08-29T01:55:38.718Z"
             },
             {
               "node_type": "item",
@@ -158,7 +166,8 @@
                 "owner": "Und3rf10w",
                 "repo": "external_c2_framework",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-29T01:55:38.718Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "Und3rf10w",
                 "repo": "external_c2_framework",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-29T01:55:38.718Z"
             }
           ],
           "description": null,
@@ -199,7 +209,8 @@
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
             "stars": 4437
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.718Z"
         },
         {
           "node_type": "item",
@@ -214,7 +225,8 @@
             "owner": "vysecurity",
             "repo": "RedTips",
             "stars": 1119
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.718Z"
         },
         {
           "node_type": "item",
@@ -229,7 +241,8 @@
             "owner": "magoo",
             "repo": "redteam-plan",
             "stars": 614
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.718Z"
         }
       ],
       "title": "↑ Misc"
@@ -252,7 +265,8 @@
                 "owner": "elastic",
                 "repo": "dorothy",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-29T01:55:38.718Z"
             }
           ],
           "description": null,
@@ -279,8 +293,9 @@
                 "last_commit": "2024-04-12T18:06:21Z",
                 "owner": "safebuffer",
                 "repo": "vulnerable-AD",
-                "stars": 2325
-              }
+                "stars": 2326
+              },
+              "first_seen": "2026-08-29T01:55:38.718Z"
             }
           ],
           "description": null,
@@ -292,7 +307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:22:12.213Z",
+    "last_updated": "2026-08-29T01:55:38.718Z",
     "original_repository_info": {
       "archived": false,
       "id": 104987608,
