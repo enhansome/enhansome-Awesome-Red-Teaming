@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "secretsquirrel",
             "repo": "SigThief",
-            "stars": 2419,
+            "stars": 2420,
             "topics": [
               "certificates",
               "pe",
@@ -46,7 +46,7 @@
             "open_issues": 10,
             "owner": "api0cradle",
             "repo": "UltimateAppLockerByPassList",
-            "stars": 2079,
+            "stars": 2080,
             "topics": [
               "applocker",
               "awl",
@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "tyranid",
             "repo": "DeviceGuardBypasses",
-            "stars": 139,
+            "stars": 138,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.718Z"
@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4436,
+            "stars": 4435,
             "topics": [
               "cobalt-strike",
               "redteam",
@@ -398,7 +398,7 @@
                 "open_issues": 11,
                 "owner": "safebuffer",
                 "repo": "vulnerable-AD",
-                "stars": 2328,
+                "stars": 2326,
                 "topics": [
                   "active-directory",
                   "penetration-testing",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:22:24.905Z",
+    "last_updated": "2026-09-03T21:25:33.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 19,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8080,
+      "stars": 8078,
       "topics": [
         "cobalt-strike",
         "empire",
