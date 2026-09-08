@@ -146,7 +146,7 @@
                 "open_issues": 4,
                 "owner": "MindPointGroup",
                 "repo": "cloudfrunt",
-                "stars": 361,
+                "stars": 360,
                 "topics": [
                   "aws",
                   "cloudfront",
@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4435,
+            "stars": 4436,
             "topics": [
               "cobalt-strike",
               "redteam",
@@ -398,7 +398,7 @@
                 "open_issues": 11,
                 "owner": "safebuffer",
                 "repo": "vulnerable-AD",
-                "stars": 2327,
+                "stars": 2329,
                 "topics": [
                   "active-directory",
                   "penetration-testing",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:48:43.085Z",
+    "last_updated": "2026-09-08T21:29:02.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
