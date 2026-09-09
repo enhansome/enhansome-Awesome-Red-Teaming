@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "tyranid",
             "repo": "DeviceGuardBypasses",
-            "stars": 138,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.718Z"
@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4436,
+            "stars": 4437,
             "topics": [
               "cobalt-strike",
               "redteam",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:29:02.069Z",
+    "last_updated": "2026-09-09T21:16:40.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 19,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8087,
+      "stars": 8089,
       "topics": [
         "cobalt-strike",
         "empire",
