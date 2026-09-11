@@ -116,8 +116,8 @@ You can help by sending Pull Requests to add more information.
 
 ## [↑](#table-of-contents) Defense Evasion
 
-* [MS Signed mimikatz in just 3 steps](https://github.com/secretsquirrel/SigThief) ⭐ 2,420 | 🐛 0 | 🌐 Python | 📅 2021-08-11
-* [App Locker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,082 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
+* [MS Signed mimikatz in just 3 steps](https://github.com/secretsquirrel/SigThief) ⭐ 2,421 | 🐛 0 | 🌐 Python | 📅 2021-08-11
+* [App Locker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,084 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
 * [Window 10 Device Guard Bypass](https://github.com/tyranid/DeviceGuardBypasses) ⭐ 137 | 🐛 0 | 🌐 C# | 📅 2017-08-03
 * [Window Signed Binary](https://github.com/vysec/Windows-SignedBinary) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2017-09-19
 * [Bypass Application Whitelisting Script Protections - Regsvr32.exe & COM Scriptlets (.sct files)](http://subt0x10.blogspot.sg/2017/04/bypass-application-whitelisting-script.html)
@@ -338,7 +338,7 @@ You can help by sending Pull Requests to add more information.
 
 ## [↑](#table-of-contents) Misc
 
-* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) ⭐ 4,438 | 🐛 0 | 📅 2023-09-20
+* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) ⭐ 4,440 | 🐛 0 | 📅 2023-09-20
 * [Red Tips of Vysec](https://github.com/vysec/RedTips) ⚠️ Archived
 * [Planning a Red Team exercise](https://github.com/magoo/redteam-plan) ⭐ 614 | 🐛 0 | 📅 2017-08-23
 * [Cobalt Strike Tips for 2016 ccde red teams](https://blog.cobaltstrike.com/2016/02/23/cobalt-strike-tips-for-2016-ccdc-red-teams/)
@@ -415,7 +415,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Home Lab
 
-* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,328 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
+* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,329 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
 * [Setting up DetectionLab](https://www.c2.lol/articles/setting-up-chris-longs-detectionlab)
 
@@ -431,4 +431,4 @@ You can help by sending Pull Requests to add more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
