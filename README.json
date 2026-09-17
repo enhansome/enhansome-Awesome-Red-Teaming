@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "secretsquirrel",
             "repo": "SigThief",
-            "stars": 2422,
+            "stars": 2421,
             "topics": [
               "certificates",
               "pe",
@@ -46,7 +46,7 @@
             "open_issues": 10,
             "owner": "api0cradle",
             "repo": "UltimateAppLockerByPassList",
-            "stars": 2083,
+            "stars": 2084,
             "topics": [
               "applocker",
               "awl",
@@ -229,7 +229,7 @@
                 "open_issues": 12,
                 "owner": "Und3rf10w",
                 "repo": "external_c2_framework",
-                "stars": 239,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.718Z"
@@ -250,7 +250,7 @@
                 "open_issues": 12,
                 "owner": "Und3rf10w",
                 "repo": "external_c2_framework",
-                "stars": 239,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.718Z"
@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4443,
+            "stars": 4444,
             "topics": [
               "cobalt-strike",
               "redteam",
@@ -398,7 +398,7 @@
                 "open_issues": 11,
                 "owner": "safebuffer",
                 "repo": "vulnerable-AD",
-                "stars": 2330,
+                "stars": 2328,
                 "topics": [
                   "active-directory",
                   "penetration-testing",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T21:45:59.156Z",
+    "last_updated": "2026-09-17T21:48:43.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 19,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8093,
+      "stars": 8096,
       "topics": [
         "cobalt-strike",
         "empire",
