@@ -46,7 +46,7 @@
             "open_issues": 10,
             "owner": "api0cradle",
             "repo": "UltimateAppLockerByPassList",
-            "stars": 2083,
+            "stars": 2081,
             "topics": [
               "applocker",
               "awl",
@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4450,
+            "stars": 4449,
             "topics": [
               "cobalt-strike",
               "redteam",
@@ -307,7 +307,7 @@
             "open_issues": 2,
             "owner": "vysecurity",
             "repo": "RedTips",
-            "stars": 1117,
+            "stars": 1116,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.718Z"
@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "magoo",
             "repo": "redteam-plan",
-            "stars": 614,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.718Z"
@@ -398,7 +398,7 @@
                 "open_issues": 11,
                 "owner": "safebuffer",
                 "repo": "vulnerable-AD",
-                "stars": 2331,
+                "stars": 2330,
                 "topics": [
                   "active-directory",
                   "penetration-testing",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T21:42:07.329Z",
+    "last_updated": "2026-09-23T21:50:14.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
