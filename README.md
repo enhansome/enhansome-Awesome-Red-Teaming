@@ -110,14 +110,14 @@ You can help by sending Pull Requests to add more information.
 
 ### Escalation
 
-* [Windows Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md) ⭐ 2,656 | 🐛 1 | 📅 2025-07-27
+* [Windows Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md) ⭐ 2,658 | 🐛 1 | 📅 2025-07-27
 * [From Patch Tuesday to DA](https://blog.inspired-sec.com/archive/2017/03/17/COM-Moniker-Privesc.html)
 * [A Path for Privilege Escalation](https://blog.cobaltstrike.com/2016/12/08/cobalt-strike-3-6-a-path-for-privilege-escalation/)
 
 ## [↑](#table-of-contents) Defense Evasion
 
 * [MS Signed mimikatz in just 3 steps](https://github.com/secretsquirrel/SigThief) ⭐ 2,421 | 🐛 0 | 🌐 Python | 📅 2021-08-11
-* [App Locker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,081 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
+* [App Locker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,082 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
 * [Window 10 Device Guard Bypass](https://github.com/tyranid/DeviceGuardBypasses) ⭐ 138 | 🐛 0 | 🌐 C# | 📅 2017-08-03
 * [Window Signed Binary](https://github.com/vysec/Windows-SignedBinary) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2017-09-19
 * [Bypass Application Whitelisting Script Protections - Regsvr32.exe & COM Scriptlets (.sct files)](http://subt0x10.blogspot.sg/2017/04/bypass-application-whitelisting-script.html)
@@ -338,9 +338,9 @@ You can help by sending Pull Requests to add more information.
 
 ## [↑](#table-of-contents) Misc
 
-* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) ⭐ 4,449 | 🐛 0 | 📅 2023-09-20
+* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) ⭐ 4,450 | 🐛 0 | 📅 2023-09-20
 * [Red Tips of Vysec](https://github.com/vysec/RedTips) ⚠️ Archived
-* [Planning a Red Team exercise](https://github.com/magoo/redteam-plan) ⭐ 613 | 🐛 0 | 📅 2017-08-23
+* [Planning a Red Team exercise](https://github.com/magoo/redteam-plan) ⭐ 614 | 🐛 0 | 📅 2017-08-23
 * [Cobalt Strike Tips for 2016 ccde red teams](https://blog.cobaltstrike.com/2016/02/23/cobalt-strike-tips-for-2016-ccdc-red-teams/)
 * [Models for Red Team Operations](https://blog.cobaltstrike.com/2015/07/09/models-for-red-team-operations/)
 * [Raphael Mudge - Dirty Red Team tricks](https://www.youtube.com/watch?v=oclbbqvawQg)
@@ -415,7 +415,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Home Lab
 
-* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,330 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
+* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,333 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
 * [Setting up DetectionLab](https://www.c2.lol/articles/setting-up-chris-longs-detectionlab)
 
@@ -431,4 +431,4 @@ You can help by sending Pull Requests to add more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
