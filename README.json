@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4452,
+            "stars": 4454,
             "topics": [
               "cobalt-strike",
               "redteam",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:34:31.823Z",
+    "last_updated": "2026-09-29T22:41:40.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
