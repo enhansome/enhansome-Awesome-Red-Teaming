@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "MS Signed mimikatz in just 3 steps",
-          "description": null,
+          "description": "secretsquirrel/SigThief",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "App Locker ByPass List",
-          "description": null,
+          "description": "api0cradle/UltimateAppLockerByPassList",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -62,7 +62,7 @@
         {
           "node_type": "item",
           "title": "Window 10 Device Guard Bypass",
-          "description": null,
+          "description": "tyranid/DeviceGuardBypasses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -83,7 +83,7 @@
         {
           "node_type": "item",
           "title": "Window Signed Binary",
-          "description": null,
+          "description": "vysecurity/Windows-SignedBinary",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -112,7 +112,7 @@
             {
               "node_type": "item",
               "title": "Finding Frontable Domain",
-              "description": null,
+              "description": "rvrsh3ll/FindFrontableDomains",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -133,7 +133,7 @@
             {
               "node_type": "item",
               "title": "CloudFrunt GitHub Repo",
-              "description": null,
+              "description": "MindPointGroup/cloudfrunt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -167,7 +167,7 @@
             {
               "node_type": "item",
               "title": "Apache2Mod Rewrite Setup",
-              "description": null,
+              "description": "n0pe-sled/Apache2-Mod-Rewrite-Setup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -195,7 +195,7 @@
             {
               "node_type": "item",
               "title": "External C2 for Cobalt Strike",
-              "description": null,
+              "description": "ryhanson/ExternalC2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -216,7 +216,7 @@
             {
               "node_type": "item",
               "title": "External C2 framework - GitHub Repo",
-              "description": null,
+              "description": "Und3rf10w/external_c2_framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -237,7 +237,7 @@
             {
               "node_type": "item",
               "title": "Hiding in the Cloud: Cobalt Strike Beacon C2 using Amazon APIs",
-              "description": null,
+              "description": "Und3rf10w/external_c2_framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -269,7 +269,7 @@
         {
           "node_type": "item",
           "title": "Awesome-CobaltStrike",
-          "description": null,
+          "description": "zer0yu/Awesome-CobaltStrike",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -294,7 +294,7 @@
         {
           "node_type": "item",
           "title": "Red Tips of Vysec",
-          "description": null,
+          "description": "vysecurity/RedTips",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -315,7 +315,7 @@
         {
           "node_type": "item",
           "title": "Planning a Red Team exercise",
-          "description": null,
+          "description": "magoo/redteam-plan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -344,7 +344,7 @@
             {
               "node_type": "item",
               "title": "Dorothy for Okta SSO",
-              "description": null,
+              "description": "elastic/dorothy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -385,7 +385,7 @@
             {
               "node_type": "item",
               "title": "vulnerable-AD - Script to make your home AD Lab vulnerable",
-              "description": null,
+              "description": "safebuffer/vulnerable-AD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:37:39.661Z",
+    "last_updated": "2026-10-03T04:29:11.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
