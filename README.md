@@ -267,7 +267,7 @@ You can help by sending Pull Requests to add more information.
 
 ### Web Services
 
-* [External C2 for Cobalt Strike](https://github.com/ryhanson/ExternalC2/) ⭐ 289 | 🐛 1 | 🌐 C# | 📅 2017-11-23
+* [External C2 for Cobalt Strike](https://github.com/ryhanson/ExternalC2/) ⭐ 290 | 🐛 1 | 🌐 C# | 📅 2017-11-23
 * [External C2 framework - GitHub Repo](https://github.com/Und3rf10w/external_c2_framework) ⭐ 238 | 🐛 12 | 🌐 Python | 📅 2023-03-22
 * [Hiding in the Cloud: Cobalt Strike Beacon C2 using Amazon APIs](https://github.com/Und3rf10w/external_c2_framework) ⭐ 238 | 🐛 12 | 🌐 Python | 📅 2023-03-22
 * [C2 with Dropbox](https://pentestlab.blog/2017/08/29/command-and-control-dropbox/)
@@ -431,4 +431,4 @@ You can help by sending Pull Requests to add more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
