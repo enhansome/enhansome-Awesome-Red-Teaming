@@ -231,7 +231,7 @@ You can help by sending Pull Requests to add more information.
 
 ### Domain Fronting
 
-* [Finding Frontable Domain](https://github.com/rvrsh3ll/FindFrontableDomains) ⭐ 648 | 🐛 3 | 🌐 Python | 📅 2023-03-22
+* [Finding Frontable Domain](https://github.com/rvrsh3ll/FindFrontableDomains) ⭐ 647 | 🐛 3 | 🌐 Python | 📅 2023-03-22
 * [CloudFrunt GitHub Repo](https://github.com/MindPointGroup/cloudfrunt) ⭐ 360 | 🐛 4 | 🌐 Python | 📅 2020-06-24
 * [Empre Domain Fronting](https://www.xorrior.com/Empire-Domain-Fronting/)
 * [Escape and Evasion Egressing Restricted Networks - Tom Steele and Chris Patten](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks)

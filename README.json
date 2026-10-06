@@ -125,7 +125,7 @@
                 "open_issues": 3,
                 "owner": "rvrsh3ll",
                 "repo": "FindFrontableDomains",
-                "stars": 648,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.718Z"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:38:14.325Z",
+    "last_updated": "2026-10-06T22:48:59.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 19,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8118,
+      "stars": 8120,
       "topics": [
         "cobalt-strike",
         "empire",
