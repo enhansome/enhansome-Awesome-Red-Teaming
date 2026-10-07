@@ -46,7 +46,7 @@
             "open_issues": 10,
             "owner": "api0cradle",
             "repo": "UltimateAppLockerByPassList",
-            "stars": 2084,
+            "stars": 2085,
             "topics": [
               "applocker",
               "awl",
@@ -307,7 +307,7 @@
             "open_issues": 2,
             "owner": "vysecurity",
             "repo": "RedTips",
-            "stars": 1115,
+            "stars": 1114,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.718Z"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:48:59.789Z",
+    "last_updated": "2026-10-07T23:20:45.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
