@@ -388,7 +388,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Misc
 
-* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 197 | 🐛 11 | 🌐 Python | 📅 2026-09-09
+* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 198 | 🐛 11 | 🌐 Python | 📅 2026-09-09
 * [Key Grabber](https://hackerwarehouse.com/product/keygrabber/)
 * [Magspoof](https://store.ryscc.com/products/magspoof%20)
 * [Poison tap](https://samy.pl/poisontap/)
@@ -431,4 +431,4 @@ You can help by sending Pull Requests to add more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

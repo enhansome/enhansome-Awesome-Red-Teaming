@@ -357,7 +357,7 @@
                 "open_issues": 11,
                 "owner": "elastic",
                 "repo": "dorothy",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "blue-team",
                   "cybersecurity",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:20:45.413Z",
+    "last_updated": "2026-10-08T23:34:36.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -429,7 +429,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2023-12-28T18:10:52Z",
-      "open_issues": 19,
+      "open_issues": 20,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
       "stars": 8120,
