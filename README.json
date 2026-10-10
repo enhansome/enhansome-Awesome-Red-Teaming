@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "secretsquirrel",
             "repo": "SigThief",
-            "stars": 2423,
+            "stars": 2424,
             "topics": [
               "certificates",
               "pe",
@@ -122,7 +122,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2023-03-22T11:39:46Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "rvrsh3ll",
                 "repo": "FindFrontableDomains",
                 "stars": 647,
@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4456,
+            "stars": 4457,
             "topics": [
               "cobalt-strike",
               "redteam",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:56:18.026Z",
+    "last_updated": "2026-10-10T22:02:10.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 20,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8121,
+      "stars": 8122,
       "topics": [
         "cobalt-strike",
         "empire",
