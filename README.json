@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "secretsquirrel",
             "repo": "SigThief",
-            "stars": 2424,
+            "stars": 2425,
             "topics": [
               "certificates",
               "pe",
@@ -229,7 +229,7 @@
                 "open_issues": 12,
                 "owner": "Und3rf10w",
                 "repo": "external_c2_framework",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.718Z"
@@ -250,7 +250,7 @@
                 "open_issues": 12,
                 "owner": "Und3rf10w",
                 "repo": "external_c2_framework",
-                "stars": 238,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.718Z"
@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4456,
+            "stars": 4457,
             "topics": [
               "cobalt-strike",
               "redteam",
@@ -398,7 +398,7 @@
                 "open_issues": 11,
                 "owner": "safebuffer",
                 "repo": "vulnerable-AD",
-                "stars": 2335,
+                "stars": 2336,
                 "topics": [
                   "active-directory",
                   "penetration-testing",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T00:59:49.754Z",
+    "last_updated": "2026-10-13T23:08:19.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 20,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8126,
+      "stars": 8128,
       "topics": [
         "cobalt-strike",
         "empire",
