@@ -117,7 +117,7 @@ You can help by sending Pull Requests to add more information.
 ## [↑](#table-of-contents) Defense Evasion
 
 * [MS Signed mimikatz in just 3 steps](https://github.com/secretsquirrel/SigThief) ⭐ 2,422 | 🐛 0 | 🌐 Python | 📅 2021-08-11
-* [App Locker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,090 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
+* [App Locker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,091 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
 * [Window 10 Device Guard Bypass](https://github.com/tyranid/DeviceGuardBypasses) ⭐ 139 | 🐛 0 | 🌐 C# | 📅 2017-08-03
 * [Window Signed Binary](https://github.com/vysec/Windows-SignedBinary) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2017-09-19
 * [Bypass Application Whitelisting Script Protections - Regsvr32.exe & COM Scriptlets (.sct files)](http://subt0x10.blogspot.sg/2017/04/bypass-application-whitelisting-script.html)
@@ -388,7 +388,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Misc
 
-* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 198 | 🐛 11 | 🌐 Python | 📅 2026-09-09
+* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 198 | 🐛 11 | 🌐 Python | 📅 2026-10-19
 * [Key Grabber](https://hackerwarehouse.com/product/keygrabber/)
 * [Magspoof](https://store.ryscc.com/products/magspoof%20)
 * [Poison tap](https://samy.pl/poisontap/)
@@ -415,7 +415,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Home Lab
 
-* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,339 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
+* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,338 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
 * [Setting up DetectionLab](https://www.c2.lol/articles/setting-up-chris-longs-detectionlab)
 
@@ -431,4 +431,4 @@ You can help by sending Pull Requests to add more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

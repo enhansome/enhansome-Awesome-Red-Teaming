@@ -46,7 +46,7 @@
             "open_issues": 10,
             "owner": "api0cradle",
             "repo": "UltimateAppLockerByPassList",
-            "stars": 2090,
+            "stars": 2091,
             "topics": [
               "applocker",
               "awl",
@@ -353,7 +353,7 @@
                 "id": 317312410,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T22:13:30Z",
+                "last_commit": "2026-10-19T22:14:13Z",
                 "open_issues": 11,
                 "owner": "elastic",
                 "repo": "dorothy",
@@ -398,7 +398,7 @@
                 "open_issues": 11,
                 "owner": "safebuffer",
                 "repo": "vulnerable-AD",
-                "stars": 2339,
+                "stars": 2338,
                 "topics": [
                   "active-directory",
                   "penetration-testing",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:06:18.450Z",
+    "last_updated": "2026-10-19T22:39:31.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 20,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8127,
+      "stars": 8129,
       "topics": [
         "cobalt-strike",
         "empire",
