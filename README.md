@@ -110,13 +110,13 @@ You can help by sending Pull Requests to add more information.
 
 ### Escalation
 
-* [Windows Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md) ⭐ 2,662 | 🐛 1 | 📅 2025-07-27
+* [Windows Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md) ⭐ 2,663 | 🐛 1 | 📅 2025-07-27
 * [From Patch Tuesday to DA](https://blog.inspired-sec.com/archive/2017/03/17/COM-Moniker-Privesc.html)
 * [A Path for Privilege Escalation](https://blog.cobaltstrike.com/2016/12/08/cobalt-strike-3-6-a-path-for-privilege-escalation/)
 
 ## [↑](#table-of-contents) Defense Evasion
 
-* [MS Signed mimikatz in just 3 steps](https://github.com/secretsquirrel/SigThief) ⭐ 2,422 | 🐛 0 | 🌐 Python | 📅 2021-08-11
+* [MS Signed mimikatz in just 3 steps](https://github.com/secretsquirrel/SigThief) ⭐ 2,421 | 🐛 0 | 🌐 Python | 📅 2021-08-11
 * [App Locker ByPass List](https://github.com/api0cradle/UltimateAppLockerByPassList) ⭐ 2,091 | 🐛 10 | 🌐 PowerShell | 📅 2023-09-11
 * [Window 10 Device Guard Bypass](https://github.com/tyranid/DeviceGuardBypasses) ⭐ 139 | 🐛 0 | 🌐 C# | 📅 2017-08-03
 * [Window Signed Binary](https://github.com/vysec/Windows-SignedBinary) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2017-09-19
@@ -327,7 +327,7 @@ You can help by sending Pull Requests to add more information.
 * [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
 * [Practical Guide to RFID Badge copying](https://blog.nviso.be/2017/01/11/a-practical-guide-to-rfid-badge-copying/)
 * [Contents of a Physical Pentester Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
-* [MagSpoof - credit card/magstripe spoofer](https://github.com/samyk/magspoof) ⭐ 4,155 | 🐛 13 | 🌐 C | 📅 2022-07-03
+* [MagSpoof - credit card/magstripe spoofer](https://github.com/samyk/magspoof) ⭐ 4,154 | 🐛 13 | 🌐 C | 📅 2022-07-03
 * [Wireless Keyboard Sniffer](https://samy.pl/keysweeper/)
 * [RFID Hacking with The Proxmark 3](https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/)
 * [Swiss Army Knife for RFID](https://www.cs.bham.ac.uk/~garciaf/publications/Tutorial_Proxmark_the_Swiss_Army_Knife_for_RFID_Security_Research-RFIDSec12.pdf)
@@ -415,7 +415,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Home Lab
 
-* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,338 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
+* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,341 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
 * [Setting up DetectionLab](https://www.c2.lol/articles/setting-up-chris-longs-detectionlab)
 
@@ -431,4 +431,4 @@ You can help by sending Pull Requests to add more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
