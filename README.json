@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "secretsquirrel",
             "repo": "SigThief",
-            "stars": 2421,
+            "stars": 2420,
             "topics": [
               "certificates",
               "pe",
@@ -353,7 +353,7 @@
                 "id": 317312410,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T22:14:13Z",
+                "last_commit": "2026-10-20T22:13:44Z",
                 "open_issues": 11,
                 "owner": "elastic",
                 "repo": "dorothy",
@@ -398,7 +398,7 @@
                 "open_issues": 11,
                 "owner": "safebuffer",
                 "repo": "vulnerable-AD",
-                "stars": 2341,
+                "stars": 2342,
                 "topics": [
                   "active-directory",
                   "penetration-testing",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T21:56:13.171Z",
+    "last_updated": "2026-10-21T22:00:37.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -429,10 +429,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2023-12-28T18:10:52Z",
-      "open_issues": 20,
+      "open_issues": 19,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8131,
+      "stars": 8129,
       "topics": [
         "cobalt-strike",
         "empire",
