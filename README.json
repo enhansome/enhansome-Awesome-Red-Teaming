@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "secretsquirrel",
             "repo": "SigThief",
-            "stars": 2420,
+            "stars": 2418,
             "topics": [
               "certificates",
               "pe",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:15:30.994Z",
+    "last_updated": "2026-10-25T21:16:26.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 19,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8131,
+      "stars": 8133,
       "topics": [
         "cobalt-strike",
         "empire",
