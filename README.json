@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "secretsquirrel",
             "repo": "SigThief",
-            "stars": 2422,
+            "stars": 2421,
             "topics": [
               "certificates",
               "pe",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:40:58.888Z",
+    "last_updated": "2026-10-31T21:57:08.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
