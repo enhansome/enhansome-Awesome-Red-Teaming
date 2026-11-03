@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:28:34.472Z",
+    "last_updated": "2026-11-03T01:20:08.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 19,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8139,
+      "stars": 8141,
       "topics": [
         "cobalt-strike",
         "empire",
