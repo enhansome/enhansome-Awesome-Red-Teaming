@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4462,
+            "stars": 4463,
             "topics": [
               "cobalt-strike",
               "redteam",
@@ -398,7 +398,7 @@
                 "open_issues": 11,
                 "owner": "safebuffer",
                 "repo": "vulnerable-AD",
-                "stars": 2345,
+                "stars": 2347,
                 "topics": [
                   "active-directory",
                   "penetration-testing",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:20:08.605Z",
+    "last_updated": "2026-11-03T23:43:28.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
