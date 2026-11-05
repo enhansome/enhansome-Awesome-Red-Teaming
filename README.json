@@ -307,7 +307,7 @@
             "open_issues": 2,
             "owner": "vysecurity",
             "repo": "RedTips",
-            "stars": 1115,
+            "stars": 1114,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.718Z"
@@ -353,7 +353,7 @@
                 "id": 317312410,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T22:13:44Z",
+                "last_commit": "2026-11-05T22:13:47Z",
                 "open_issues": 11,
                 "owner": "elastic",
                 "repo": "dorothy",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T23:57:47.323Z",
+    "last_updated": "2026-11-05T23:51:57.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",

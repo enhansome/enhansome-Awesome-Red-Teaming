@@ -327,7 +327,7 @@ You can help by sending Pull Requests to add more information.
 * [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
 * [Practical Guide to RFID Badge copying](https://blog.nviso.be/2017/01/11/a-practical-guide-to-rfid-badge-copying/)
 * [Contents of a Physical Pentester Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
-* [MagSpoof - credit card/magstripe spoofer](https://github.com/samyk/magspoof) ⭐ 4,155 | 🐛 13 | 🌐 C | 📅 2022-07-03
+* [MagSpoof - credit card/magstripe spoofer](https://github.com/samyk/magspoof) ⭐ 4,154 | 🐛 13 | 🌐 C | 📅 2022-07-03
 * [Wireless Keyboard Sniffer](https://samy.pl/keysweeper/)
 * [RFID Hacking with The Proxmark 3](https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/)
 * [Swiss Army Knife for RFID](https://www.cs.bham.ac.uk/~garciaf/publications/Tutorial_Proxmark_the_Swiss_Army_Knife_for_RFID_Security_Research-RFIDSec12.pdf)
@@ -388,7 +388,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Misc
 
-* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 199 | 🐛 11 | 🌐 Python | 📅 2026-10-20
+* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 199 | 🐛 11 | 🌐 Python | 📅 2026-11-05
 * [Key Grabber](https://hackerwarehouse.com/product/keygrabber/)
 * [Magspoof](https://store.ryscc.com/products/magspoof%20)
 * [Poison tap](https://samy.pl/poisontap/)
@@ -431,4 +431,4 @@ You can help by sending Pull Requests to add more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
