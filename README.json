@@ -208,7 +208,7 @@
                 "open_issues": 1,
                 "owner": "ryhanson",
                 "repo": "ExternalC2",
-                "stars": 290,
+                "stars": 291,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.718Z"
@@ -282,7 +282,7 @@
             "open_issues": 0,
             "owner": "zer0yu",
             "repo": "Awesome-CobaltStrike",
-            "stars": 4465,
+            "stars": 4467,
             "topics": [
               "cobalt-strike",
               "redteam",
@@ -353,7 +353,7 @@
                 "id": 317312410,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T22:13:47Z",
+                "last_commit": "2026-11-06T18:14:40Z",
                 "open_issues": 11,
                 "owner": "elastic",
                 "repo": "dorothy",
@@ -398,7 +398,7 @@
                 "open_issues": 11,
                 "owner": "safebuffer",
                 "repo": "vulnerable-AD",
-                "stars": 2348,
+                "stars": 2347,
                 "topics": [
                   "active-directory",
                   "penetration-testing",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T23:51:57.295Z",
+    "last_updated": "2026-11-06T23:33:21.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 19,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8140,
+      "stars": 8142,
       "topics": [
         "cobalt-strike",
         "empire",

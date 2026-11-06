@@ -110,7 +110,7 @@ You can help by sending Pull Requests to add more information.
 
 ### Escalation
 
-* [Windows Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md) ⭐ 2,662 | 🐛 1 | 📅 2025-07-27
+* [Windows Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md) ⭐ 2,661 | 🐛 1 | 📅 2025-07-27
 * [From Patch Tuesday to DA](https://blog.inspired-sec.com/archive/2017/03/17/COM-Moniker-Privesc.html)
 * [A Path for Privilege Escalation](https://blog.cobaltstrike.com/2016/12/08/cobalt-strike-3-6-a-path-for-privilege-escalation/)
 
@@ -267,7 +267,7 @@ You can help by sending Pull Requests to add more information.
 
 ### Web Services
 
-* [External C2 for Cobalt Strike](https://github.com/ryhanson/ExternalC2/) ⭐ 290 | 🐛 1 | 🌐 C# | 📅 2017-11-23
+* [External C2 for Cobalt Strike](https://github.com/ryhanson/ExternalC2/) ⭐ 291 | 🐛 1 | 🌐 C# | 📅 2017-11-23
 * [External C2 framework - GitHub Repo](https://github.com/Und3rf10w/external_c2_framework) ⭐ 239 | 🐛 12 | 🌐 Python | 📅 2023-03-22
 * [Hiding in the Cloud: Cobalt Strike Beacon C2 using Amazon APIs](https://github.com/Und3rf10w/external_c2_framework) ⭐ 239 | 🐛 12 | 🌐 Python | 📅 2023-03-22
 * [C2 with Dropbox](https://pentestlab.blog/2017/08/29/command-and-control-dropbox/)
@@ -327,7 +327,7 @@ You can help by sending Pull Requests to add more information.
 * [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
 * [Practical Guide to RFID Badge copying](https://blog.nviso.be/2017/01/11/a-practical-guide-to-rfid-badge-copying/)
 * [Contents of a Physical Pentester Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
-* [MagSpoof - credit card/magstripe spoofer](https://github.com/samyk/magspoof) ⭐ 4,154 | 🐛 13 | 🌐 C | 📅 2022-07-03
+* [MagSpoof - credit card/magstripe spoofer](https://github.com/samyk/magspoof) ⭐ 4,156 | 🐛 13 | 🌐 C | 📅 2022-07-03
 * [Wireless Keyboard Sniffer](https://samy.pl/keysweeper/)
 * [RFID Hacking with The Proxmark 3](https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/)
 * [Swiss Army Knife for RFID](https://www.cs.bham.ac.uk/~garciaf/publications/Tutorial_Proxmark_the_Swiss_Army_Knife_for_RFID_Security_Research-RFIDSec12.pdf)
@@ -338,7 +338,7 @@ You can help by sending Pull Requests to add more information.
 
 ## [↑](#table-of-contents) Misc
 
-* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) ⭐ 4,465 | 🐛 0 | 📅 2023-09-20
+* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) ⭐ 4,467 | 🐛 0 | 📅 2023-09-20
 * [Red Tips of Vysec](https://github.com/vysec/RedTips) ⚠️ Archived
 * [Planning a Red Team exercise](https://github.com/magoo/redteam-plan) ⭐ 614 | 🐛 0 | 📅 2017-08-23
 * [Cobalt Strike Tips for 2016 ccde red teams](https://blog.cobaltstrike.com/2016/02/23/cobalt-strike-tips-for-2016-ccdc-red-teams/)
@@ -388,7 +388,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Misc
 
-* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 199 | 🐛 11 | 🌐 Python | 📅 2026-11-05
+* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 199 | 🐛 11 | 🌐 Python | 📅 2026-11-06
 * [Key Grabber](https://hackerwarehouse.com/product/keygrabber/)
 * [Magspoof](https://store.ryscc.com/products/magspoof%20)
 * [Poison tap](https://samy.pl/poisontap/)
@@ -415,7 +415,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Home Lab
 
-* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,348 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
+* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,347 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
 * [Setting up DetectionLab](https://www.c2.lol/articles/setting-up-chris-longs-detectionlab)
 
@@ -431,4 +431,4 @@ You can help by sending Pull Requests to add more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
