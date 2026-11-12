@@ -110,7 +110,7 @@ You can help by sending Pull Requests to add more information.
 
 ### Escalation
 
-* [Windows Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md) ⭐ 2,662 | 🐛 1 | 📅 2025-07-27
+* [Windows Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md) ⭐ 2,663 | 🐛 1 | 📅 2025-07-27
 * [From Patch Tuesday to DA](https://blog.inspired-sec.com/archive/2017/03/17/COM-Moniker-Privesc.html)
 * [A Path for Privilege Escalation](https://blog.cobaltstrike.com/2016/12/08/cobalt-strike-3-6-a-path-for-privilege-escalation/)
 
@@ -338,7 +338,7 @@ You can help by sending Pull Requests to add more information.
 
 ## [↑](#table-of-contents) Misc
 
-* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) ⭐ 4,467 | 🐛 0 | 📅 2023-09-20
+* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike) ⭐ 4,468 | 🐛 0 | 📅 2023-09-20
 * [Red Tips of Vysec](https://github.com/vysec/RedTips) ⚠️ Archived
 * [Planning a Red Team exercise](https://github.com/magoo/redteam-plan) ⭐ 614 | 🐛 0 | 📅 2017-08-23
 * [Cobalt Strike Tips for 2016 ccde red teams](https://blog.cobaltstrike.com/2016/02/23/cobalt-strike-tips-for-2016-ccdc-red-teams/)
@@ -415,7 +415,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Home Lab
 
-* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,348 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
+* [vulnerable-AD - Script to make your home AD Lab vulnerable](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,349 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12
 * [Building an Effective Active Directory Lab Environment for Testing](https://adsecurity.org/?p=2653)
 * [Setting up DetectionLab](https://www.c2.lol/articles/setting-up-chris-longs-detectionlab)
 
@@ -431,4 +431,4 @@ You can help by sending Pull Requests to add more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
