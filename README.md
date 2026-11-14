@@ -232,7 +232,7 @@ You can help by sending Pull Requests to add more information.
 ### Domain Fronting
 
 * [Finding Frontable Domain](https://github.com/rvrsh3ll/FindFrontableDomains) ⭐ 646 | 🐛 2 | 🌐 Python | 📅 2023-03-22
-* [CloudFrunt GitHub Repo](https://github.com/MindPointGroup/cloudfrunt) ⭐ 360 | 🐛 4 | 🌐 Python | 📅 2020-06-24
+* [CloudFrunt GitHub Repo](https://github.com/MindPointGroup/cloudfrunt) ⭐ 361 | 🐛 4 | 🌐 Python | 📅 2020-06-24
 * [Empre Domain Fronting](https://www.xorrior.com/Empire-Domain-Fronting/)
 * [Escape and Evasion Egressing Restricted Networks - Tom Steele and Chris Patten](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks)
 * [TOR Fronting – Utilising Hidden Services for Privacy](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
@@ -327,7 +327,7 @@ You can help by sending Pull Requests to add more information.
 * [Gettting in with the Proxmark3 & ProxBrute](https://www.trustwave.com/Resources/SpiderLabs-Blog/Getting-in-with-the-Proxmark-3-and-ProxBrute/)
 * [Practical Guide to RFID Badge copying](https://blog.nviso.be/2017/01/11/a-practical-guide-to-rfid-badge-copying/)
 * [Contents of a Physical Pentester Backpack](https://www.tunnelsup.com/contents-of-a-physical-pen-testers-backpack/)
-* [MagSpoof - credit card/magstripe spoofer](https://github.com/samyk/magspoof) ⭐ 4,158 | 🐛 13 | 🌐 C | 📅 2022-07-03
+* [MagSpoof - credit card/magstripe spoofer](https://github.com/samyk/magspoof) ⭐ 4,159 | 🐛 13 | 🌐 C | 📅 2022-07-03
 * [Wireless Keyboard Sniffer](https://samy.pl/keysweeper/)
 * [RFID Hacking with The Proxmark 3](https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/)
 * [Swiss Army Knife for RFID](https://www.cs.bham.ac.uk/~garciaf/publications/Tutorial_Proxmark_the_Swiss_Army_Knife_for_RFID_Security_Research-RFIDSec12.pdf)
@@ -431,4 +431,4 @@ You can help by sending Pull Requests to add more information.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

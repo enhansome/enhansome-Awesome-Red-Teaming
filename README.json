@@ -146,7 +146,7 @@
                 "open_issues": 4,
                 "owner": "MindPointGroup",
                 "repo": "cloudfrunt",
-                "stars": 360,
+                "stars": 361,
                 "topics": [
                   "aws",
                   "cloudfront",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T23:57:07.355Z",
+    "last_updated": "2026-11-14T22:46:15.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 19,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8152,
+      "stars": 8151,
       "topics": [
         "cobalt-strike",
         "empire",
