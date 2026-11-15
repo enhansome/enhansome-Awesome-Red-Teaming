@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "magoo",
             "repo": "redteam-plan",
-            "stars": 614,
+            "stars": 615,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.718Z"
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T22:46:15.313Z",
+    "last_updated": "2026-11-15T23:12:57.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 19,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8151,
+      "stars": 8152,
       "topics": [
         "cobalt-strike",
         "empire",
