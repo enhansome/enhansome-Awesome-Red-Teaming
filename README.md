@@ -388,7 +388,7 @@ You can help by sending Pull Requests to add more information.
 
 #### Misc
 
-* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 199 | 🐛 11 | 🌐 Python | 📅 2026-11-06
+* [Dorothy for Okta SSO](https://github.com/elastic/dorothy) ⭐ 199 | 🐛 11 | 🌐 Python | 📅 2026-11-21
 * [Key Grabber](https://hackerwarehouse.com/product/keygrabber/)
 * [Magspoof](https://store.ryscc.com/products/magspoof%20)
 * [Poison tap](https://samy.pl/poisontap/)
