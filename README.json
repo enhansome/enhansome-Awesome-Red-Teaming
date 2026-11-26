@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "secretsquirrel",
             "repo": "SigThief",
-            "stars": 2421,
+            "stars": 2424,
             "topics": [
               "certificates",
               "pe",
@@ -125,7 +125,7 @@
                 "open_issues": 2,
                 "owner": "rvrsh3ll",
                 "repo": "FindFrontableDomains",
-                "stars": 646,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.718Z"
@@ -307,7 +307,7 @@
             "open_issues": 2,
             "owner": "vysecurity",
             "repo": "RedTips",
-            "stars": 1116,
+            "stars": 1117,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.718Z"
@@ -398,7 +398,7 @@
                 "open_issues": 11,
                 "owner": "safebuffer",
                 "repo": "vulnerable-AD",
-                "stars": 2347,
+                "stars": 2348,
                 "topics": [
                   "active-directory",
                   "penetration-testing",
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T02:49:41.996Z",
+    "last_updated": "2026-11-26T01:58:06.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Awesome Red Teaming Resources",
@@ -432,7 +432,7 @@
       "open_issues": 19,
       "owner": "yeyintminthuhtut",
       "repo": "Awesome-Red-Teaming",
-      "stars": 8159,
+      "stars": 8163,
       "topics": [
         "cobalt-strike",
         "empire",
